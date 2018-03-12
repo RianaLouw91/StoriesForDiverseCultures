@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 
 This project is about:
 1. Showcasing story books that introduce diverse cultures to children,
