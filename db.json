@@ -34,6 +34,10 @@
       "name": "The Blacksmith & The Dragonfly",
       "description": "A story about the local blacksmith's daughter and the challenges she has to face to save the prince.",
       "culture": "Xhosa",
+      "tags": ["blacksmith","dragonfly","bug","xhosa"],
+      "budget": 48000,
+      "completed": true,
+      "active": true,
       "duration": {
         "start": "1 January 2017",
         "end": "19 March 2018"
@@ -54,6 +58,10 @@
       "name": "The Ravenscloud",
       "description": "A story about the son of a notorious wizard who refuses to follow in his father's footsteps and his journey to freedom.",
       "culture": "Zulu",
+      "tags": ["wizard","crow","monsters","inventor"],
+      "budget": 48000,
+      "completed": true,
+      "active": true,
       "duration": {
         "start": "1 February 2018",
         "end": "31 January 2019"
@@ -74,6 +82,10 @@
       "name": "Stone of The Ocean",
       "description": "A story about a mermaid princess who is forced to live on land until a powerful wizard threatens the balance between good and evil.",
       "culture": "Swazi",
+      "tags": ["mermaid","magic","stones","swazi"],
+      "budget": 48000,
+      "completed": true,
+      "active": true,
       "duration": {
         "start": "27 March 2018",
         "end": "26 March 2019"
