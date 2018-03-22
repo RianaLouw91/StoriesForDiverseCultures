@@ -8,4 +8,5 @@ const APP_ROUTES: Routes = [
   }
 ];
 
-export const AppRoutes = RouterModule.forRoot(APP_ROUTES, { enableTracing: true });
+export const AppRoutes = RouterModule.forRoot(APP_ROUTES);
+// , { enableTracing: true }

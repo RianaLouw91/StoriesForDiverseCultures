@@ -30,32 +30,64 @@
   ],
   "projects": [
     {
-      "note": "lalalalal",
-      "id": "f"
+      "id": "1",
+      "name": "The Blacksmith & The Dragonfly",
+      "description": "A story about the local blacksmith's daughter and the challenges she has to face to save the prince.",
+      "culture": "Xhosa",
+      "duration": {
+        "start": "1 January 2017",
+        "end": "19 March 2018"
+      },
+      "pages": "20",
+      "author": {
+        "name": "Riana",
+        "lastName": "Louw"
+      },
+      "illustrator" : {
+        "name": "Christelle",
+        "lastName": "Lambrechts"
+      },
+      "image": "https://www.poontoe.com/wp-content/uploads/2017/06/imgpng-1498460741n84kg.jpg"
     },
     {
-      "id": "12nsdfsdf-45erf"
+      "id": "2",
+      "name": "The Ravenscloud",
+      "description": "A story about the son of a notorious wizard who refuses to follow in his father's footsteps and his journey to freedom.",
+      "culture": "Zulu",
+      "duration": {
+        "start": "1 February 2018",
+        "end": "31 January 2019"
+      },
+      "pages": "20",
+      "author": {
+        "name": "Riana",
+        "lastName": "Louw"
+      },
+      "illustrator" : {
+        "name": "Carike",
+        "lastName": "Cronje"
+      },
+      "image": "https://vignette.wikia.nocookie.net/epicrapbattlesofhistory/images/b/bb/Shaka_Zulu_Based_On.png/revision/latest/scale-to-width-down/300?cb=20160828134636"
     },
     {
-      "id": "12nsdd3fsdf-45erf"
-    },
-    {
-      "id": "12nsdefsdf-45erf"
-    },
-    {
-      "id": "12nsddfsdf-45erf"
-    },
-    {
-      "id": "12nsdsfsdf-45erf"
-    },
-    {
-      "id": "12nsdwfsdf-45erf"
-    },
-    {
-      "id": "12nsdefsdf-45erf"
-    },
-    {
-      "id": "12nsdcfsdf-45erf"
+      "id": "3",
+      "name": "Stone of The Ocean",
+      "description": "A story about a mermaid princess who is forced to live on land until a powerful wizard threatens the balance between good and evil.",
+      "culture": "Swazi",
+      "duration": {
+        "start": "27 March 2018",
+        "end": "26 March 2019"
+      },
+      "pages": "20",
+      "author": {
+        "name": "Riana",
+        "lastName": "Louw"
+      },
+      "illustrator" : {
+        "name": "Christelle",
+        "lastName": "Lambrecths"
+      },
+      "image": "http://www.southafricanartists.com/Thumbnail.asp?WorkID=102455"
     }
   ]
 }

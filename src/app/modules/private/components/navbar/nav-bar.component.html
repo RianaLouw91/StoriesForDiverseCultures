@@ -1,0 +1,19 @@
+<div class="nav-bar-container">
+  <div class="container left">
+    <div class="top"></div>
+    <div class="special-mid"><a routerLink="" routerLinkActive="active">Home</a></div>
+    <div class="special-bottom"></div>
+  </div>
+
+  <div *ngFor="let item of navigationItems" class="container center-links">
+    <div class="top"></div>
+    <div class="mid"><a routerLink="{{item.redirectLink}}" routerLinkActive="active">{{item.displayName}}</a></div>
+    <div class="bottom"></div>
+  </div>
+
+  <div class="container right">
+      <div class="top"></div>
+      <div class="special-mid">Logout</div>
+      <div class="special-bottom"></div>
+    </div>
+</div>
